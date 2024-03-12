@@ -2,7 +2,10 @@
 # 打造投資策略的
 # Try & Error
 
-陳奎銘 Ben
+Microsoft 聚技站
+
+2023/03/13 陳奎銘 Ben 
+
 
 ---
 
@@ -747,8 +750,8 @@ ETF and Chill
 
 ----
 
-- 投影片：https://kuiming.github.io/gpt-investing/mvp_genai/output/index.html#/
-- Facebook：https://www.facebook.com/profile.php?id=523887614
+- 投影片：https://reurl.cc/rrGmpb
+- Facebook：https://reurl.cc/67O1W6
 - R-Ladies Taipei：https://www.facebook.com/groups/RLadiesTaipei
 
 ----
