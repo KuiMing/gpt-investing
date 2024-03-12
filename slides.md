@@ -359,4 +359,4 @@ ETF and Chill
 ----
 
 
-<img src="media/QR_facebook.png" width="300vw"> <img src="media/QR_slides.png" width="300vw"> <img src="media/QR_R_Ladies_Taipei.png" width="300vw">
+<img src="media/QR_Facebook.png" width="300vw"> <img src="media/QR_slides.png" width="300vw"> <img src="media/QR_R_Ladies_Taipei.png" width="300vw">
