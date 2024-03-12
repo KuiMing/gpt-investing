@@ -1,5 +1,5 @@
-## 投資？就交給
-# 高級伴讀書僮- GPT
+# 有 GPT 陪伴的
+# 投資之路
 陳奎銘 Ben
 
 
@@ -212,8 +212,8 @@ Note:
 - Time: 214 hours
     - Build Vector Store: 190 hours
     - Get Confidence Score: 24 hours
-- Storage: ~115 G
 - 4 core CPU + 16G RAM 
+- Storage: ~115 G
 
 
 
@@ -352,3 +352,8 @@ ETF and Chill
 ----
 
 # Thank You
+
+----
+
+
+<img src="media/QR_facebook.png" width="300vw"> <img src="media/QR_slides.png" width="300vw"> <img src="media/QR_R_Ladies_Taipei.png" width="300vw">
