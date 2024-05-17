@@ -11,7 +11,7 @@ REVEAL_META = {
     # Author in the metadata of the slide
     "author": "Ben Chen",
     # Description in the metadata of the slide
-    "description": "投資？我都交給我的高級伴讀書僮- GPT！",
+    "description": "試著用RAG打造投資策略的Try & Error",
 }
 
 # Reveal markdown slide separator
